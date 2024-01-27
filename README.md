@@ -1,3 +1,3 @@
 # Customer_Segmentation
-![Image Alt Text](Screenshot (755).png)
+![Image Alt Text](s.png)
 Customer_Segmentation
