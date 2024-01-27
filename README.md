@@ -1,3 +1,3 @@
 # Customer_Segmentation
-![Image Alt Text](s.png)
+![Image Alt Text](rs.png)
 Customer_Segmentation
