@@ -1,3 +1,3 @@
 # Customer_Segmentation
-![Image Description](Screenshot (755).jpg)
+![Screenshot (755)](Screenshot (755).jpg)
 Customer_Segmentation
